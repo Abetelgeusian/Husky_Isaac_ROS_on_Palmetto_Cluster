@@ -194,18 +194,6 @@ Now switch to the third terminal and log in to the isaac ros container.
 
 ` ros2 run teleop_twist_keyboard teleop_twist_keyboard ` 
 
-
-##### Subtopics
-
-    1) first login to palmetto node.
-    2) Login to vnodes.
-    3) Source omnitoken for assets.
-    4) Launch Isaac sim.
-    5) Steps 1 thorugh 7. along with ros 2 installation and keyboard installation.
-    6) Play sim.
-    7) Run the segmentation in different terminals.
-
-##### Additional
-    1) Accessgin/Uploading files in omnidev.
-    2) Getting Omnitoken.
-
+##Remaining
+- Add a gif of the result
+- give more contect to the 22 commands
