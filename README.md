@@ -1,1 +1,1 @@
-(See this)[L40.md]
+[Read here](./L40.md)
